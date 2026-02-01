@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Tom — Cloud & DevOps Engineer | Security | Automation
+# Cloud & DevOps Engineer | Security | Automation
 
 ### Building scalable cloud platforms, secure architectures, DevOps automation, and full observability solutions.
 
@@ -104,5 +104,6 @@ Each repo follows a consistent structure to make the engineering approach immedi
 - **Email:** *(optional)*  
 
 ---
+
 
 Thanks for visiting — feel free to explore the repos, open issues, or reach out!
