@@ -1,4 +1,4 @@
-# Cloud | DevOps | Security | Automation | Engineer and Architect
+# Engineer and Architect | Cloud | DevOps | Security | Automation
 
 ### Designing and building scalable cloud platforms, secure architectures, DevOps automation, and full observability solutions.
 
@@ -107,5 +107,6 @@ Each repo follows a consistent structure to make the engineering approach immedi
 
 
 Thanks for visiting — feel free to explore the repos, open issues, or reach out!
+
 
 
