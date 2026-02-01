@@ -1,6 +1,6 @@
 # Cloud & DevOps Engineer | Security | Automation
 
-### Building scalable cloud platforms, secure architectures, DevOps automation, and full observability solutions.
+### Designing and building scalable cloud platforms, secure architectures, DevOps automation, and full observability solutions.
 
 Welcome to my GitHub portfolio — a collection of real-world Cloud, DevOps, and Security engineering projects designed to showcase hands-on expertise across AWS, Terraform, Kubernetes, CI/CD, automation, and cloud governance.
 
@@ -107,3 +107,4 @@ Each repo follows a consistent structure to make the engineering approach immedi
 
 
 Thanks for visiting — feel free to explore the repos, open issues, or reach out!
+
